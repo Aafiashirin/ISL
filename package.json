@@ -1,0 +1,19 @@
+{
+  "name": "well-structured-calculator",
+  "version": "1.0.0",
+  "description": "A well-structured, modular, and responsive calculator application with clean architecture, keyboard support, and history tracking.",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "calculator",
+    "vanilla-js",
+    "modular",
+    "clean-architecture"
+  ],
+  "author": "",
+  "license": "MIT"
+}
